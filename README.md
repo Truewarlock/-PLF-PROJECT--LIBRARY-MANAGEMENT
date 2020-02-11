@@ -5,3 +5,5 @@ This SOFTWARE PRODUCT is provided by me, Valentin 'Truewarlock' Marius "as is" a
 Made in Prolog.
 
 This project was made for "Logic Programming and Functional Programming" at Computer science & Engineering University(Year 2, Sem 2) as a mandatory project.
+
+Simple project to manage a library. It is able to know how many books we have in the library, they are listed by name and IBAN, we can add or borrow new books adn know who borrowed them.
